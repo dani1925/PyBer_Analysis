@@ -3,8 +3,8 @@
 
 This repository contains a data analysis of a Start Up that offers transfer services, connecting drivers with users.
 
-[My image](dani1925.github.com/PyBer_Analysis/img/Fig1.jpg)
-
+[My image](dani1925.github.com/PyBer_Analysis/resources/Fig1.jpg)
+.
 
 An analysis was performed using python and jupyter notebook to extract the following information:
 
